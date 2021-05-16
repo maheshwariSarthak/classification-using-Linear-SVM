@@ -1,0 +1,2 @@
+# classification-using-Linear-SVM
+•Built a classifier model based on linear support vector machine to determine unknown classification.  •Optimized our model to work on out-of-sample data by applying a Gradient Descent algorithm.  •Compared a model evaluation metric for different verification models to quantify the model performance.  •Plotted Reciever Operating Characteristic curve to show the trade-off between clinical sensitivity and specificity for every possible combination of tests.
